@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **rasa, nlp, docker, fastapi, streamlit, bentoml, react**
 
-- 📫 How to reach me **vishnu.v.r.priya@gmail.com**
+- 📫 Reach me at **vishnu.v.r.priya@gmail.com**
 
 - ⚡ Fun fact **Learning is constant, so I aspire to be a learner always!**
 
