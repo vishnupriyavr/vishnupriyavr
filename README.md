@@ -19,6 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Productionize ML/DL Models as Easy as a Pie: BentoML](https://medium.com/whispering-wasps/productionize-ml-dl-models-as-easy-as-a-pie-bentoml-36247374446f?source=rss-a132bc569a56------2)
+- [Data Science on Mac M1: An eventful roller-coaster!](https://medium.com/whispering-wasps/data-science-on-mac-m1-an-eventful-roller-coaster-bd2e68454d12?source=rss-a132bc569a56------2)
+- [Piercing through the Dialogflow maze — A Deduction](https://medium.com/whispering-wasps/piercing-through-the-dialogflow-maze-a-deduction-96127d01cb4b?source=rss-a132bc569a56------2)
+- [Conversational AI — What Next?](https://medium.com/whispering-wasps/conversational-ai-what-next-2e77f93d1193?source=rss-a132bc569a56------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
