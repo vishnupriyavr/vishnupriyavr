@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishnu Priya VR</h1>
 <h3 align="center">A tech enthusiast trying to learn-on-the-go the depths ML/AI has to offer and become a full-spectrum AI engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnupriyavr&label=Profile%20views&color=0e75b6&style=flat" alt="vishnupriyavr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnupriyavr" alt="vishnupriyavr" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/theneophilvert" target="blank"><img src="https://img.shields.io/twitter/follow/theneophilvert?logo=twitter&style=for-the-badge" alt="theneophilvert" /></a> </p>
 
 - 🌱 I’m currently learning **ML, DL, AI, NLP, CV**
