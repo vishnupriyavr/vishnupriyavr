@@ -1,4 +1,4 @@
-<h1 align="center">Hi &nbsp; &nbsp; 👋, <br><br> I'm Vishnu Priya VR!</h1>
+<h1 align="center">Hi &nbsp; 👋, <br><br> I'm Vishnu Priya VR!</h1>
 <h3 align="center">A tech enthusiast trying to learn-on-the-go the depths ML/AI has to offer and become a full-spectrum AI engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishnupriyavr&label=Profile%20views&color=0e75b6&style=flat" alt="vishnupriyavr" /> </p>
