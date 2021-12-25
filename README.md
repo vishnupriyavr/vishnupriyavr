@@ -95,7 +95,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnupriyavr&show_icons=true&locale=en&layout=compact" alt="vishnupriyavr" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnupriyavr&show_icons=true&locale=en" alt="vishnupriyavr" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnupriyavr&show_icons=true&locale=en" alt="vishnupriyavr" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnupriyavr&" alt="vishnupriyavr" /></p>
 
