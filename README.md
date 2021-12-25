@@ -95,7 +95,7 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ buymeacoffee.com/wwhisperingwasps "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" buymeacoffee.com/whisperingwasps " /></a></p><br><br><br><br>
+<p><a href="https://www.buymeacoffee.com/ buymeacoffee.com/wwhisperingwasps "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/whisperingwasps" /></a></p><br><br><br><br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnupriyavr&show_icons=true&locale=en&layout=compact" alt="vishnupriyavr" /></p>
 
