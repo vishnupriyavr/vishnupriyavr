@@ -51,10 +51,22 @@ I focus on moving beyond simple LLM calls to building autonomous, deterministic 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/profile/repos_per_language?username=vishnupriyavr&theme=vision_friendly_dark" width="47%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/profile/summary?username=vishnupriyavr&theme=vision_friendly_dark" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/profile/summary?username=vishnupriyavr&theme=vision_friendly_dark" width="95%" alt="GitHub Summary" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnupriyavr&theme=vision-friendly-dark" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/profile/repos_per_language?username=vishnupriyavr&theme=vision_friendly_dark" width="47%" alt="Repos per Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/profile/most_commit_language?username=vishnupriyavr&theme=vision_friendly_dark" width="47%" alt="Most Commit Language" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnupriyavr&theme=vision-friendly-dark&area=true" width="95%" alt="Contribution Graph" />
+</p>
+<p align="center">
+  <a href="https://github.com/vishnupriyavr">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/vishnupriyavr?label=Follow&style=social" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vishnupriyavr">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/vishnupriyavr?label=Stars&style=social" />
+  </a>
 </p>
