@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Stats Card
-        uses: anuraghazra/github-readme-stats@latest
+        uses: anuraghazra/github-readme-stats@master
         with:
           username: vishnupriyavr
           theme: vision-friendly-dark
@@ -29,7 +29,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages Card
-        uses: anuraghazra/github-readme-stats@latest
+        uses: anuraghazra/github-readme-stats@master
         with:
           username: vishnupriyavr
           theme: vision-friendly-dark
