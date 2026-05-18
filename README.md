@@ -52,6 +52,14 @@ I focus on moving beyond simple LLM calls to building autonomous, deterministic 
 
 ### 📊 GitHub Stats
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+<p align="center">
+  <img src="./github-stats.svg" width="47%" />
+  &nbsp;
+  <img src="./top-langs.svg" width="47%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnupriyavr&theme=vision-friendly-dark" width="95%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnupriyavr&theme=vision-friendly-dark&area=true" width="95%" />
+</p>
