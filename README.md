@@ -49,26 +49,7 @@ I focus on moving beyond simple LLM calls to building autonomous, deterministic 
   </a>
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnupriyavr&show_icons=true&count_private=true&hide=contribs&theme=vision-friendly-dark" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnupriyavr&layout=compact&hide=html&theme=vision-friendly-dark" width="48%" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnupriyavr&theme=vision-friendly-dark&area=true" width="95%" alt="Contribution Graph" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnupriyavr&theme=vision-friendly-dark" width="48%" alt="GitHub Streak" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Profile%20Views-?color=blue&style=flat" alt="Profile Views" />
-</p>
-<p align="center">
-  <a href="https://github.com/vishnupriyavr?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/vishnupriyavr?logo=github&style=flat&color=success" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/vishnupriyavr?tab=stars">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/vishnupriyavr?logo=github&style=flat&color=success" />
-  </a>
-</p>
+
+## 📊 GitHub Dashboard
+
+<iframe src="https://raw.githubusercontent.com/vishnupriyavr/vishnupriyavr/main/github-dashboard.html" width="100%" height="700" frameborder="0" style="border: none;"></iframe>
