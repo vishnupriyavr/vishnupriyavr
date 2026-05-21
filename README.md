@@ -34,7 +34,9 @@ I focus on moving beyond simple LLM calls to building autonomous, deterministic 
 - [Why Markdown Might Be All We Need: My Take](https://medium.com/whispering-wasps/why-markdown-might-be-all-we-need-my-take-8946b22a8ca6)
 - [Stop Engineering Context, Start Predicting It](https://medium.com/whispering-wasps/stop-engineering-context-start-predicting-it-61cc07a2b7db)
 - [Reasoning vs. Rules: How Claude Mythos Broke Security’s Old Game](https://medium.com/whispering-wasps/reasoning-vs-rules-how-claude-mythos-broke-securitys-old-game-43dfbc82fd42)
+- [REASONING vs RULES : Part 2 — The Feedback Engine: How the Colosseum Learns Faster Than Threats Evolve](https://medium.com/whispering-wasps/reasoning-vs-rules-part-2-the-feedback-engine-how-the-colosseum-learns-faster-than-threats-3f9eccb4c624)
 - [Productionize ML/DL Models as Easy as a Pie: BentoML](https://medium.com/whispering-wasps/productionize-ml-dl-models-as-easy-as-a-pie-bentoml-36247374446f)
+  
 
 ### 🤝 Connect with me:
 <p align="left">
