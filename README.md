@@ -31,6 +31,7 @@ I focus on moving beyond simple LLM calls to building autonomous, deterministic 
 - **Production Scale:** Deployed conversational agents handling 100k+ monthly conversations with 99.7% uptime.
 
 ### 📝 Recent Technical Blogs
+- [Parallel Decoding Without Extra Heads: Inside Jacobi Forcing](https://medium.com/whispering-wasps/parallel-decoding-without-extra-heads-inside-jacobi-forcing-e7ec9e9fc529)
 - [Why Markdown Might Be All We Need: My Take](https://medium.com/whispering-wasps/why-markdown-might-be-all-we-need-my-take-8946b22a8ca6)
 - [Stop Engineering Context, Start Predicting It](https://medium.com/whispering-wasps/stop-engineering-context-start-predicting-it-61cc07a2b7db)
 - [Reasoning vs. Rules: How Claude Mythos Broke Security’s Old Game](https://medium.com/whispering-wasps/reasoning-vs-rules-how-claude-mythos-broke-securitys-old-game-43dfbc82fd42)
