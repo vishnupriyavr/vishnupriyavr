@@ -31,6 +31,7 @@ I focus on moving beyond simple LLM calls to building autonomous, deterministic 
 - **Production Scale:** Deployed conversational agents handling 100k+ monthly conversations with 99.7% uptime.
 
 ### 📝 Recent Technical Blogs
+- [Kubernetes Troubleshooting with K8sGPT: AI-Assisted SRE Guide](https://medium.com/whispering-wasps/kubernetes-troubleshooting-with-k8sgpt-ai-assisted-sre-guide-28752c72acf9)
 - [Parallel Decoding Without Extra Heads: Inside Jacobi Forcing](https://medium.com/whispering-wasps/parallel-decoding-without-extra-heads-inside-jacobi-forcing-e7ec9e9fc529)
 - [Why Markdown Might Be All We Need: My Take](https://medium.com/whispering-wasps/why-markdown-might-be-all-we-need-my-take-8946b22a8ca6)
 - [Stop Engineering Context, Start Predicting It](https://medium.com/whispering-wasps/stop-engineering-context-start-predicting-it-61cc07a2b7db)
