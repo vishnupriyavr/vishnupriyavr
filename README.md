@@ -11,7 +11,7 @@
 </p>
 
 ### 🚀 About Me
-I am a **Principal AI Engineer** specializing in the intersection of **Generative AI, Cybersecurity, and MLOps** 
+I am a **Principal AI Engineer** specializing in architecting enterprise **Generative AI systems** across diverse domains—including **cybersecurity automation**, real-time **agent assist copilots**, and high-scale **fintech chatbots**—all backed by production-grade **MLOps**.
 I focus on moving beyond simple LLM calls to building autonomous, deterministic agentic systems that solve complex enterprise challenges.
 
 - 🤖 **Currently Focused On:** Architecting agentic workflows for SOC automation and proactive threat hunting.
