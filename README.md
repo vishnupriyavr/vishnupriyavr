@@ -32,7 +32,7 @@ I focus on moving beyond simple LLM calls to building autonomous, deterministic 
 
 ### 📝 Recent Technical Blogs
 - [VRAM Is Zero-Sum: Why Quantization and KV Cache Are Not Rivals in Production LLM Serving](https://www.linkedin.com/pulse/vram-zero-sum-why-quantization-kv-cache-rivals-production-vr-mpe0c/)
-- [Kubernetes Troubleshooting with K8sGPT: AI-Assisted SRE Guide](https://medium.com/whispering-wasps/kubernetes-troubleshooting-with-k8sgpt-ai-assisted-sre-guide-28752c72acf9](https://medium.com/generative-ai/kubernetes-troubleshooting-with-k8sgpt-ai-assisted-sre-guide-28752c72acf9?sharedUserId=papudear))
+- [Kubernetes Troubleshooting with K8sGPT: AI-Assisted SRE Guide](https://medium.com/generative-ai/kubernetes-troubleshooting-with-k8sgpt-ai-assisted-sre-guide-28752c72acf9)
 - [Parallel Decoding Without Extra Heads: Inside Jacobi Forcing](https://medium.com/whispering-wasps/parallel-decoding-without-extra-heads-inside-jacobi-forcing-e7ec9e9fc529)
 - [Why Markdown Might Be All We Need: My Take](https://medium.com/whispering-wasps/why-markdown-might-be-all-we-need-my-take-8946b22a8ca6)
 - [Stop Engineering Context, Start Predicting It](https://medium.com/towards-deep-learning/stop-engineering-context-start-predicting-it-61cc07a2b7db)
