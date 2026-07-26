@@ -26,7 +26,7 @@ I focus on moving beyond simple LLM calls to building autonomous, deterministic 
 - **Databases:** MongoDB, SQL, Vector Databases.
 
 ### 📈 Impact Highlights
-- **Agentic Workflows:** Reviewed and designeed a 24/7 autonomous SOC detection system with response latency < 2 minutes.
+- **Agentic Workflows:** Reviewed and redesigned a 24/7 autonomous SOC detection system with response latency < 2 minutes.
 - **RAG Optimization:** Improved retrieval accuracy by 20% and reduced latency by 60% through structured chunking strategies.
 - **Production Scale:** Deployed conversational agents handling 100k+ monthly conversations with 99.7% uptime.
 
