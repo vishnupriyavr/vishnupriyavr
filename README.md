@@ -31,6 +31,7 @@ I focus on moving beyond simple LLM calls to building autonomous, deterministic 
 - **Production Scale:** Deployed conversational agents handling 100k+ monthly conversations with 99.7% uptime.
 
 ### 📝 Recent Technical Blogs
+- [Why AI Agents Fail in Production - and the Architecture That Fixes Them](https://medium.com/whispering-wasps/why-ai-agents-fail-in-production-and-the-architecture-that-fixes-them-033b10b1ce87)
 - [VRAM Is Zero-Sum: Why Quantization and KV Cache Are Not Rivals in Production LLM Serving](https://www.linkedin.com/pulse/vram-zero-sum-why-quantization-kv-cache-rivals-production-vr-mpe0c/)
 - [Kubernetes Troubleshooting with K8sGPT: AI-Assisted SRE Guide](https://medium.com/generative-ai/kubernetes-troubleshooting-with-k8sgpt-ai-assisted-sre-guide-28752c72acf9)
 - [Parallel Decoding Without Extra Heads: Inside Jacobi Forcing](https://medium.com/whispering-wasps/parallel-decoding-without-extra-heads-inside-jacobi-forcing-e7ec9e9fc529)
