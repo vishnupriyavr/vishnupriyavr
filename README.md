@@ -28,7 +28,7 @@ I focus on moving beyond simple LLM calls to building autonomous, deterministic 
 ### 📈 Impact Highlights
 - **Agentic Workflows:** Reviewed and redesigned a 24/7 autonomous SOC detection system with response latency < 2 minutes.
 - **RAG Optimization:** Improved retrieval accuracy by 20% and reduced latency by 60% through structured chunking strategies.
-- **Production Scale:** Deployed conversational agents handling 100k+ monthly conversations with 99.7% uptime.
+- **Production Scale:** Deployed conversational agents handling 10k+ monthly conversations with 99.7% uptime.
 
 ### 📝 Recent Technical Blogs
 - [Why AI Agents Fail in Production - and the Architecture That Fixes Them](https://medium.com/whispering-wasps/why-ai-agents-fail-in-production-and-the-architecture-that-fixes-them-033b10b1ce87)
