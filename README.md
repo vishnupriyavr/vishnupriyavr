@@ -25,6 +25,44 @@ I focus on moving beyond simple LLM calls to building autonomous, deterministic 
 - **Backend & Infra:** FastAPI, Docker, Kubernetes (GCP/Azure), MLOps (Datadog, Wiz.io, Nexus IQ, ArgoCD).
 - **Databases:** MongoDB, SQL, Vector Databases.
 
+### 🧪 AI Systems Lab
+
+**AI Systems Lab** is my build-in-public portfolio for exploring production AI architecture through working prototypes, measurable evaluations, and documented engineering trade-offs.
+
+#### 🛡️ Lab 01 — MCP-Based SOC Copilot
+
+A security operations copilot that converts heterogeneous security alerts into structured, evidence-grounded triage recommendations while retaining human authority over sensitive decisions.
+
+**Target architecture:**
+
+`Security alert → OCSF normalization → Security SLM router → Private MCP server → Grounded retrieval → Analyst recommendation → Human decision`
+
+**Engineering principles:**
+
+- Standardize multi-vendor alerts using **OCSF** before applying AI.
+- Use a smaller model for routing and reserve larger models for complex investigations.
+- Keep changing knowledge—threat intelligence, incident history, and playbooks—in **RAG**.
+- Expose security capabilities through thin, typed, read-only **FastMCP tools**.
+- Require traceable evidence and human review for high-risk decisions.
+- Benchmark rules, prompted SLMs, and fine-tuned SLMs on the same held-out dataset.
+- More details captured here: [Building a Safer AI Copilot for Security Teams: Week 1](https://www.linkedin.com/pulse/building-safer-ai-copilot-security-teams-week-1-vishnu-priya-vr-hxnnc/)
+
+**Week 1 delivered:**
+
+- 8 representative SOC alert scenarios
+- 50 reviewed synthetic golden alerts
+- Versioned Pydantic and OCSF contracts
+- 8 FastMCP tool contracts
+- Threat model and testable security invariants
+- Working `normalize_alert` vertical slice
+- 60 passing automated tests
+
+> This is a controlled engineering prototype using public and synthetic data. It does not connect to production security systems or execute remediation.
+
+🔗 **Engineering repository:** Private implementation; selected architecture, evaluation, and design artifacts are shared publicly through portfolio updates.
+
+📖 **Current focus:** Implementing deterministic SOC tools and benchmarking rules against prompted Security SLMs before deciding whether fine-tuning provides measurable value.
+
 ### 📈 Impact Highlights
 - **Agentic Workflows:** Reviewed and redesigned a 24/7 autonomous SOC detection system with response latency < 2 minutes.
 - **RAG Optimization:** Improved retrieval accuracy by 20% and reduced latency by 60% through structured chunking strategies.
