@@ -27,7 +27,7 @@ I focus on moving beyond simple LLM calls to building autonomous, deterministic 
 
 ### 🧪 AI Systems Lab
 
-**AI Systems Lab** is my build-in-public portfolio for exploring production AI architecture through working prototypes, measurable evaluations, and documented engineering trade-offs.
+[**AI Systems Lab**](https://github.com/vishnupriyavr/ai-systems-lab) is my build-in-public portfolio for exploring production AI architecture through working prototypes, measurable evaluations, and documented engineering trade-offs.
 
 #### 🛡️ Lab 01 — MCP-Based SOC Copilot
 
