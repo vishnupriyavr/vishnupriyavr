@@ -45,7 +45,9 @@ A security operations copilot that converts heterogeneous security alerts into s
 - Expose security capabilities through thin, typed, read-only **FastMCP tools**.
 - Require traceable evidence and human review for high-risk decisions.
 - Benchmark rules, prompted SLMs, and fine-tuned SLMs on the same held-out dataset.
-- More details captured here: [Building a Safer AI Copilot for Security Teams: Week 1](https://www.linkedin.com/pulse/building-safer-ai-copilot-security-teams-week-1-vishnu-priya-vr-hxnnc/)
+- More details captured here:
+  - Week 1: [Building a Safer AI Copilot for Security Teams: Week 1](https://www.linkedin.com/pulse/building-safer-ai-copilot-security-teams-week-1-vishnu-priya-vr-hxnnc/)
+  - Week 2: [Building an MCP-Based SOC Copilot: What the Week 2 Benchmarks Changed](https://www.linkedin.com/pulse/building-mcp-based-soc-copilot-what-week-2-benchmarks-vishnu-priya-vr-nyzwc/)
 
 **Week 1 delivered:**
 
@@ -56,6 +58,18 @@ A security operations copilot that converts heterogeneous security alerts into s
 - Threat model and testable security invariants
 - Working `normalize_alert` vertical slice
 - 60 passing automated tests
+
+**Week 2 delivered:**
+
+- 8 working, typed FastMCP tools
+- Deterministic IOC extraction and triage baseline
+- Versioned Sigma-to-MITRE ATT&CK mapping catalogue
+- 4 versioned security-context retrieval tools
+- Policy-governed triage orchestration
+- Rules and Qwen 2.5 7B prompted-model benchmarks
+- Scenario-level error and safety analysis
+- Conditional LoRA/QLoRA fine-tuning decision
+- 134 passing automated tests with Ruff and MyPy checks
 
 > This is a controlled engineering prototype using public and synthetic data. It does not connect to production security systems or execute remediation.
 
