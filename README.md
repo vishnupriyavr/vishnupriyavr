@@ -48,6 +48,7 @@ A security operations copilot that converts heterogeneous security alerts into s
 - More details captured here:
   - Week 1: [Building a Safer AI Copilot for Security Teams: Week 1](https://www.linkedin.com/pulse/building-safer-ai-copilot-security-teams-week-1-vishnu-priya-vr-hxnnc/)
   - Week 2: [Building an MCP-Based SOC Copilot: What the Week 2 Benchmarks Changed](https://www.linkedin.com/pulse/building-mcp-based-soc-copilot-what-week-2-benchmarks-vishnu-priya-vr-nyzwc/)
+  - Week 3: [Fine Tuning Improved the SOC Copilot, But It Did Not Earn Authority](https://www.linkedin.com/pulse/fine-tuning-improved-soc-copilot-did-earn-authority-vishnu-priya-vr-jm3wc/)
 
 **Week 1 delivered:**
 
@@ -70,6 +71,18 @@ A security operations copilot that converts heterogeneous security alerts into s
 - Scenario-level error and safety analysis
 - Conditional LoRA/QLoRA fine-tuning decision
 - 134 passing automated tests with Ruff and MyPy checks
+
+**Week 3 delivered:**
+
+- Isolated 960 example synthetic SFT corpus with contamination checks
+- Frozen 768/96/96 train, validation, and challenge split
+- Reproducible Qwen 2.5 3B BF16 LoRA and DoRA experiments
+- Untuned, LoRA, and DoRA paired benchmark evaluation
+- Independently authored 16 case robustness and safety suite
+- Scenario level failure, latency, memory, and generalization analysis
+- LoRA selected as a controlled triage proposal component; DoRA rejected
+- Deterministic policy, typed validation, and human review authority preserved
+- 166 passing automated tests with Ruff and strict MyPy checks
 
 > This is a controlled engineering prototype using public and synthetic data. It does not connect to production security systems or execute remediation.
 
