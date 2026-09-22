@@ -25,6 +25,8 @@ I focus on moving beyond simple LLM calls to building autonomous, deterministic 
 - **Backend & Infra:** FastAPI, Docker, Kubernetes (GCP/Azure), MLOps (Datadog, Wiz.io, Nexus IQ, ArgoCD).
 - **Databases:** MongoDB, SQL, Vector Databases.
 
+📖 **Current focus:** Implementing deterministic SOC tools and benchmarking rules against prompted Security SLMs before deciding whether fine-tuning provides measurable value.
+
 ### 🧪 AI Systems Lab
 
 [**AI Systems Lab**](https://github.com/vishnupriyavr/ai-systems-lab) is my build-in-public portfolio for exploring production AI architecture through working prototypes, measurable evaluations, and documented engineering trade-offs.
@@ -49,6 +51,7 @@ A security operations copilot that converts heterogeneous security alerts into s
   - Week 1: [Building a Safer AI Copilot for Security Teams: Week 1](https://www.linkedin.com/pulse/building-safer-ai-copilot-security-teams-week-1-vishnu-priya-vr-hxnnc/)
   - Week 2: [Building an MCP-Based SOC Copilot: What the Week 2 Benchmarks Changed](https://www.linkedin.com/pulse/building-mcp-based-soc-copilot-what-week-2-benchmarks-vishnu-priya-vr-nyzwc/)
   - Week 3: [Fine Tuning Improved the SOC Copilot, But It Did Not Earn Authority](https://www.linkedin.com/pulse/fine-tuning-improved-soc-copilot-did-earn-authority-vishnu-priya-vr-jm3wc/)
+  - Week 4: [The Model Improved. The Architecture Still Said No to Routing Authority.](https://www.linkedin.com/pulse/model-improved-architecture-still-said-vishnu-priya-vr-xqmre/)
 
 **Week 1 delivered:**
 
@@ -84,11 +87,26 @@ A security operations copilot that converts heterogeneous security alerts into s
 - Deterministic policy, typed validation, and human review authority preserved
 - 166 passing automated tests with Ruff and strict MyPy checks
 
+**Week 4 delivered:**
+
+- Independently authored 200 alert evaluation set with 25 cases per scenario
+- Frozen retrieval benchmark with 16 known-answer questions and 12 adversarial boundary cases
+- Provenance, balance, duplication, and contamination checks across 247 Week 4 records
+- Route-aware orchestration across eight read-only MCP tools
+- Dynamic threat intelligence, asset, incident, and playbook retrieval from alert evidence
+- Bounded context bundles and investigation summaries with resolvable citations
+- Prompt-injection, false-approval, stale-context, and unsupported-source safety tests
+- Explicit analyst approve, modify, and reject outcomes with content-bound audit records
+- Rules, prompted Qwen 2.5 3B, and LoRA comparison across quality, safety, latency, throughput, tokens, and compute
+- LoRA improved routing, severity, ATT&CK recall, latency, and token use, but failed routing, schema, and high-risk safety gates
+- Deterministic rules retained routing authority; LoRA remained a proposal component requiring revision
+- Retrieval retained for changing context; ATT&CK catalogue, typed validation, policy, and human authority preserved
+- Controlled-prototype closeout completed; production routing and autonomous remediation rejected
+- 285 passing automated tests with Ruff and strict MyPy checks
+
 > This is a controlled engineering prototype using public and synthetic data. It does not connect to production security systems or execute remediation.
 
 🔗 **Engineering repository:** Private implementation; selected architecture, evaluation, and design artifacts are shared publicly through portfolio updates.
-
-📖 **Current focus:** Implementing deterministic SOC tools and benchmarking rules against prompted Security SLMs before deciding whether fine-tuning provides measurable value.
 
 ### 📈 Impact Highlights
 - **Agentic Workflows:** Reviewed and redesigned a 24/7 autonomous SOC detection system with response latency < 2 minutes.
