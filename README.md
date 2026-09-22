@@ -25,7 +25,8 @@ I focus on moving beyond simple LLM calls to building autonomous, deterministic 
 - **Backend & Infra:** FastAPI, Docker, Kubernetes (GCP/Azure), MLOps (Datadog, Wiz.io, Nexus IQ, ArgoCD).
 - **Databases:** MongoDB, SQL, Vector Databases.
 
-📖 **Current focus:** Implementing deterministic SOC tools and benchmarking rules against prompted Security SLMs before deciding whether fine-tuning provides measurable value.
+### 📖 Current focus
+Implementing deterministic SOC tools and benchmarking rules against prompted Security SLMs before deciding whether fine-tuning provides measurable value.
 
 ### 🧪 AI Systems Lab
 
