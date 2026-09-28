@@ -1,5 +1,5 @@
 <h1 align="center">Hi &nbsp; 👋, <br><br> I'm Vishnu Priya VR!</h1>
-<h3 align="center">Principal AI Engineer | Architecting Agentic Workflows & Multi-Agent Systems</h3>
+<h3 align="center">Principal AI Engineer | Architecting Agentic AI Workflows & Multi-Agent AI Systems</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=vishnupriyavr&label=Profile%20views&color=0e75b6&style=flat" alt="vishnupriyavr" /> 
@@ -14,7 +14,7 @@
 I am a **Principal AI Engineer** specializing in architecting enterprise **Generative AI systems** across diverse domains—including **cybersecurity automation**, real-time **agent assist copilots**, and high-scale **fintech chatbots**—all backed by production-grade **MLOps**.
 I focus on moving beyond simple LLM calls to building autonomous, deterministic agentic systems that solve complex enterprise challenges.
 
-- 🤖 **Currently Focused On:** Architecting agentic workflows for SOC automation and proactive threat hunting.
+- 🤖 **Currently Focused On:** Engineering reproducible, evaluation-driven release workflows for LLM systems, with deterministic safety gates, versioned artifacts, progressive delivery, and reliable rollback.
 - 🏗️ **Core Expertise:** RAG & GraphRAG optimization, Agentic AI (Function Calling and Tool Calling), and productionizing LLMs at scale.
 - 🎙️ **Community:** Former **Rasa Community Chapter Lead** (Chennai & Bengaluru); organized 12+ meetups for 300+ members.
 - ✍️ **Writing:** I maintain **Whispering Wasps**, focusing on how Markdown and reasoning models are redefining the AI stack.
@@ -22,11 +22,13 @@ I focus on moving beyond simple LLM calls to building autonomous, deterministic 
 ### 🛠️ Tech Stack & Skills
 - **AI/ML:** Generative AI, RAG, GraphRAG, Agentic Workflows, LangChain, LlamaIndex, CrewAI, Rasa.
 - **NLP/CV:** NER, OCR (EasyOCR, Tesseract), ASR/STT (Deepgram), TTS (Cartesia).
-- **Backend & Infra:** FastAPI, Docker, Kubernetes (GCP/Azure), MLOps (Datadog, Wiz.io, Nexus IQ, ArgoCD).
+- **Backend & Infra:** FastAPI, Docker, Kubernetes (GCP/Azure), CI/CD, Progressive Delivery, Argo CD, Argo Rollouts.
+- **LLM Release Engineering:** Reproducible Evaluation, Model/Prompt Versioning, Deterministic Safety Gates, Canary Releases, Release Policy, Artifact Integrity, Observability, Rollback.
+- **Security & MLOps:** Datadog, Wiz, Nexus IQ, Threat Modeling, AI Governance.
 - **Databases:** MongoDB, SQL, Vector Databases.
 
 ### 📖 Current focus
-Implementing deterministic SOC tools and benchmarking rules against prompted Security SLMs before deciding whether fine-tuning provides measurable value.
+Engineering reproducible, evaluation-driven release workflows for LLM systems, with deterministic safety gates, versioned artifacts, progressive delivery, and reliable rollback.
 
 ### 🧪 AI Systems Lab
 
@@ -106,6 +108,43 @@ A security operations copilot that converts heterogeneous security alerts into s
 - 285 passing automated tests with Ruff and strict MyPy checks
 
 > This is a controlled engineering prototype using public and synthetic data. It does not connect to production security systems or execute remediation.
+
+#### 🚀 Lab 02 — LLM Release Engineering Lab
+
+An evaluation-led release platform that turns model, prompt, adapter, and policy changes into reproducible release candidates with deterministic quality gates, integrity verification, and explicit promotion decisions.
+
+**Target architecture:**
+
+`Pinned application revision → Frozen evaluation workload → Multi-configuration replay → Deterministic evaluation → Paired comparison → Versioned release package → Policy gate → Canary rollout or rejection`
+
+**Engineering principles:**
+
+- Evaluate every candidate against the same frozen, versioned workload.
+- Keep replay, evaluation, comparison, and packaging independent of application-specific logic.
+- Preserve raw model responses separately from normalized evaluation results.
+- Treat infrastructure failures separately from model-quality failures.
+- Use deterministic contract, quality, domain, and safety checks as authoritative release gates.
+- Keep model-based semantic evaluation advisory until calibrated against human judgments.
+- Compare failures case by case so aggregate improvements cannot conceal critical regressions.
+- Bind model, adapter, prompt, workload, evaluator, policy, and application revisions into an integrity-protected release package.
+- Separate candidate packaging from deployment approval.
+- Require explicit canary and rollback policies before progressive delivery.
+- More details captured here:
+  - Week 1: *TBD*
+
+**Week 1 delivered:**
+
+- 50-case frozen synthetic SOC evaluation workload
+- Reusable replay contract for deterministic and model-backed configurations
+- Rules, prompted Qwen 2.5 3B, and Qwen 2.5 3B LoRA comparison
+- Versioned deterministic metrics and evaluator registry
+- Case-level baseline and candidate comparison
+- Human-readable and machine-readable evaluation reports
+- Hashed release package with artifact-integrity verification
+- Defined canary stages and rollback rules
+- Explainable rejection of the LoRA candidate after one high-risk fast-path miss
+- Deterministic rules retained as the rollback baseline
+- 28 passing automated tests
 
 🔗 **Engineering repository:** Private implementation; selected architecture, evaluation, and design artifacts are shared publicly through portfolio updates.
 
